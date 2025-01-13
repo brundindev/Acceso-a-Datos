@@ -183,7 +183,7 @@ Archivo `saludo.html` (usando Thymeleaf):
 ```
 
 
-Aquí un introducción más elaborada: [2.1 Introducción Thymleaf](2.1%20Introducción%20Thymleaf.md)
+Aquí un introducción más elaborada: [2.1 Introducción Thymeleaf](2.1%20Introducción%20Thymeleaf.md)
 
 
 **Ejercicios**
